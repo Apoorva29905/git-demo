@@ -4,6 +4,7 @@ int a[10],n,elem,i,pos;
 void create()
 {
   printf("\nEnter the size of the array elements:");
+  printf("Updated elements");
   scanf("%d",&n);
   printf("\nEnter the elementsfor the array:\n");
   for(i=0;i<n;i++)
